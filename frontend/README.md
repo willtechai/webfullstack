@@ -2,7 +2,10 @@
 
 > Um dashboard web full-stack desenvolvido para monitoramento de produção assistencial e faturamento hospitalar, consumindo dados diretamente de um Databricks SQL Warehouse via API corporativa.
 
----
+## 📸 Pré-visualização do Dashboard
+<div align="center">
+  <img src="assets/dashwebhosp.png" alt="Dashboard de Produção Hospitalar" width="100%">
+</div>
 
 ## 🚀 Sobre o Projeto
 Este projeto foi construído para demonstrar habilidades avançadas em engenharia de dados, desenvolvimento backend e visualização moderna. A aplicação extrai dados consolidados da camada Gold do Databricks e os expõe através de uma API de alta performance, renderizando um painel executivo interativo no frontend.
